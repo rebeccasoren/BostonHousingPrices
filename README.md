@@ -1,4 +1,4 @@
-# R Codes
+# Working with R
 ## Details 
 1. [Predicting Housing Prices on Boston Housing Data](./Housing)
 
