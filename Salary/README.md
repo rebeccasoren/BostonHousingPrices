@@ -1,4 +1,4 @@
-# Predicting Salaries with Simple Linear Regression
+# Predicting Salaries with Linear Regression
 Training a model that predicts salaries of new employees & visualizing data using linear regression methods. 
 
 The [csv file](./Salary_Data.csv) is included in this folder for building the model. It contains 30 entries. **You can add more data for more accurate predictions.**

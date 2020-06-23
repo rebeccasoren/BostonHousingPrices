@@ -1,4 +1,4 @@
-# Predicting Housing Prices in R on Boston Housing Data
+# Predicting Housing Prices on Boston Housing Data
 
 ## Packages Required
 * caret
