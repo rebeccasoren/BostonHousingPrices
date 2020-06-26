@@ -7,3 +7,5 @@
 3. [Prediciting Chance of Admission based on CGPA](./Admission)
 
 4. [Comparing Daily Stock Returns of Companies](./Stock)
+
+5. [Analysing datasets using DPLYR Package](./DPLYR)
