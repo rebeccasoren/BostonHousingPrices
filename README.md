@@ -9,3 +9,5 @@
 4. [Comparing Daily Stock Returns of Companies](./Stock)
 
 5. [Analysing datasets using DPLYR Package](./DPLYR)
+
+6. [Predicting Diabetes with a Random Forest](./Diabetes)
