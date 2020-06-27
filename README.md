@@ -13,3 +13,5 @@
 6. [Predicting Diabetes with a Random Forest](./Diabetes)
 
 7. [Scraping data from webpages](./DataScraping)
+
+8. [Text Sentiment Analysis](./TextAnalysis)
