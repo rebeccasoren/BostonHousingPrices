@@ -11,3 +11,5 @@
 5. [Analysing datasets using DPLYR Package](./DPLYR)
 
 6. [Predicting Diabetes with a Random Forest](./Diabetes)
+
+7. [Scraping data from webpages](./DataScraping)
