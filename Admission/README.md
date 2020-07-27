@@ -1,4 +1,4 @@
-# Predicting Salaries with Linear Regression
+# Predicting Admission with Linear Regression
 Training a model that predicts chance of admission of new students based on their CGPA using linear regression.
 
 ## Conclusion
